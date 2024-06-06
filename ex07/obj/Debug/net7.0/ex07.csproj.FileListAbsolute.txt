@@ -1,0 +1,14 @@
+C:\Users\maria\OneDrive\Área de Trabalho\ex07\obj\Debug\net7.0\ex07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Área de Trabalho\ex07\obj\Debug\net7.0\ex07.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\ex07\obj\Debug\net7.0\ex07.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Área de Trabalho\ex07\obj\Debug\net7.0\ex07.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\ex07\bin\Debug\net7.0\ex07.exe
+C:\Users\maria\OneDrive\Área de Trabalho\ex07\bin\Debug\net7.0\ex07.deps.json
+C:\Users\maria\OneDrive\Área de Trabalho\ex07\bin\Debug\net7.0\ex07.runtimeconfig.json
+C:\Users\maria\OneDrive\Área de Trabalho\ex07\bin\Debug\net7.0\ex07.dll
+C:\Users\maria\OneDrive\Área de Trabalho\ex07\bin\Debug\net7.0\ex07.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\ex07\obj\Debug\net7.0\ex07.dll
+C:\Users\maria\OneDrive\Área de Trabalho\ex07\obj\Debug\net7.0\refint\ex07.dll
+C:\Users\maria\OneDrive\Área de Trabalho\ex07\obj\Debug\net7.0\ex07.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\ex07\obj\Debug\net7.0\ex07.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Área de Trabalho\ex07\obj\Debug\net7.0\ref\ex07.dll
